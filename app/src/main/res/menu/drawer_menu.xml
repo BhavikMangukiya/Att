@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/my_schedule"
+        android:icon="@drawable/ic_access_time_black_24dp"
+        android:orderInCategory="101"
+        android:title="@string/myschedule" />
+    <item
+        android:orderInCategory="102"
+        android:title="More">
+        <menu>
+            <item
+                android:id="@+id/promo"
+                android:icon="@drawable/ic_ondemand_video_white_24dp"
+                android:title="@string/promo" />
+            <item
+                android:id="@+id/rate"
+                android:icon="@drawable/ic_star_white_24dp"
+                android:title="@string/rate" />
+            <item
+                android:id="@+id/pro"
+                android:icon="@drawable/ic_local_grocery_store_white_24dp"
+                android:title="@string/upgradepro" />
+            <item
+                android:id="@+id/about_us"
+                android:icon="@drawable/ic_info_outline_white_24dp"
+                android:title="@string/about" />
+        </menu>
+    </item>
+</menu>

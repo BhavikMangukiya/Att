@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="colors">
+        <item>#3F51B5</item>
+        <item>#009688</item>
+        <item>#EF5350</item>
+        <item>#2196F3</item>
+        <item>#455A64</item>
+    </array>
+    <array name="spinnerItems">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </array>
+    <array name="security_questions">
+        <item>Choose a security Question..</item>
+        <item>What is your favorite food?</item>
+        <item>What is your favorite place?</item>
+        <item>What is the name of your pet?</item>
+        <item>Who is your role model?</item>
+        <item>What is your favorite subject?</item>
+        <item>What is your favorite movie?</item>
+    </array>
+    <array name="security_questionsnew">
+        <item>Choose a new security Question..</item>
+        <item>What is your favorite food?</item>
+        <item>What is your favorite place?</item>
+        <item>What is the name of your pet?</item>
+        <item>Who is your role model?</item>
+        <item>What is your favorite subject?</item>
+        <item>What is your favorite movie?</item>
+    </array>
+</resources>

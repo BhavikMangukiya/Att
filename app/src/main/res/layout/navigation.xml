@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="200.0dip"
+    android:background="@drawable/polybg">
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView12"
+        android:layout_alignParentBottom="false"
+        android:layout_marginLeft="20.0dip"
+        android:text="BMEF Attendance"
+        android:textColor="#ffffff"
+        android:textAppearance="?android:textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView11"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20.0dip"
+        android:textColor="#ffffff"
+        android:text="by Paradox "
+        android:textAppearance="?android:textAppearanceSmall" />
+</RelativeLayout>
